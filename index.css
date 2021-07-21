@@ -1,0 +1,9 @@
+div.body-div{
+    text-align: center;
+    border: gray solid thick;
+}
+
+ul.main-ul{
+    list-style: none;
+    display: inline-block;
+}
