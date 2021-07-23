@@ -1,6 +1,6 @@
 div.body-div{
     text-align: center;
-    border: gray solid thick;
+    
 }
 
 ul.main-ul{
@@ -10,4 +10,5 @@ ul.main-ul{
 
 li {
    display: inline-block;
+   margin: 20px;
 }
