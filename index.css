@@ -7,3 +7,7 @@ ul.main-ul{
     list-style: none;
     display: inline-block;
 }
+
+li {
+   display: inline-block;
+}
