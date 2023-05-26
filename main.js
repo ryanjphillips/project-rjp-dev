@@ -6,6 +6,7 @@ function main(){
     list.appendChild(createProject("30DaysOfJavaScript: Day 24 - Project 1", "code/day24solarsystem/day24solarsystem/index.html"));
     list.appendChild(createProject("30DaysOfJavaScript: Day 25 - Project 1", "code/day25worldcountries/day25worldcountries/index.html"));
     list.appendChild(createProject("30DaysOfJavaScript Final Project: Country Coupling", "code/countrycoupling/couplingcountries/homepage/index.html"));
+    list.appendChild(createProject("PokeScope", "code/pokescope/poke-scope/build"));
 }
 
 
